@@ -1,0 +1,85 @@
+/* end navigation */
+
+
+ <a class="nav-link active" aria-current="page" href="#">Home</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Projects</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#">Resume</a>
+                      </li>
+
+
+
+
+
+/* body{
+    margin: 0;
+    padding: 0;
+    background-color: lightskyblue;
+    /* background: url("background1.jpg") no-repeat; */
+    /* background-size: cover;
+    font-family: "Open Sans";
+}
+
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:lightgoldenrodyellow;
+    margin: 0, 10px;
+    
+}
+
+.name{
+    background-color:aqua;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.bar>niv>ul{
+    background-color:rgb(80, 207, 144);
+    display: flex; 
+    flex-direction: row;
+    justify-content: flex-start;
+    font-size: 25px;
+}
+
+.bar>niv>ul>li{
+    list-style: none;
+    margin: 10px 20px;
+
+}
+
+.content{
+    background-color: gray;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.profile-img>img{
+    width: 90%;
+    border-radius: 50%; */
+/* }
+.profile-img{
+    width: 400px;
+    background-color: lightsalmon;
+    
+}
+
+.description{
+    width: 500px;
+    background-color: lightgreen;
+}
+
+.details{
+    display: flex;
+    flex-wrap: wrap;
+} */ 
